@@ -1,0 +1,33 @@
+*{
+    margin-left: 5px;
+}
+
+#first{
+    font-size: 30px;
+    font-family:'Times New Roman' ;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+#second,#four,#six{
+    font-size: 25px;
+    font-family:'Times New Roman' ;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+#three{
+    font-size: 20px;
+    width: 60vw;
+    
+}
+
+#five{
+    font-size:18px;
+    width: 60vw;
+}
+
+#img1{
+    float: right;
+    margin-right: 30px;
+}
